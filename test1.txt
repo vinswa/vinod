@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is D41E-4879
+
+ Directory of C:\Users\vbk\Desktop\myprj
+
+03/18/2019  05:02 PM    <DIR>          .
+03/18/2019  05:02 PM    <DIR>          ..
+03/18/2019  05:02 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  60,437,598,208 bytes free
